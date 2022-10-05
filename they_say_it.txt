@@ -1,0 +1,349 @@
+
+--------------------------
+S01E01 Title: winter is coming
+they say it?  YES!
+
+quote: and winter is coming.
+When? 00:11:44,412 --> 00:11:46,080
+
+quote: winter is coming.
+When? 00:44:33,129 --> 00:44:38,383
+
+
+--------------------------
+S01E02 Title: the kingsroad
+they say it?  YES!
+
+quote: on the kingsroad, swords at our sides,
+When? 00:21:42,052 --> 00:21:46,765
+
+quote: the kingsroad can be a dangerous place
+When? 00:37:04,099 --> 00:37:07,102
+
+
+--------------------------
+S01E03 Title: lord snow
+they say it?  YES!
+
+quote: lord snow here grew up in a castle
+When? 00:21:53,814 --> 00:21:59,486
+
+quote: well, lord snow, it appears
+When? 00:22:40,777 --> 00:22:45,115
+
+quote: we'll talk later, lord snow.
+When? 00:25:38,914 --> 00:25:41,124
+
+
+--------------------------
+S01E04 Title: cripples, bastards, and broken things
+they say it?  YES!
+
+quote: for cripples, bastards, and broken things.
+When? 00:04:51,875 --> 00:04:56,380
+
+
+--------------------------
+S01E05 Title: the wolf and the lion
+they say it?  YES!
+
+quote: the wolf and the lion
+When? 00:21:35,712 --> 00:21:38,465
+
+
+--------------------------
+S01E06 Title: a golden crown
+they say it?  YES!
+
+quote: i will give to him a golden crown and men will tremble when they will see it.
+When? 00:49:13,121 --> 00:49:20,416
+
+quote: you shall have a golden crown...
+When? 00:49:27,050 --> 00:49:29,970
+
+
+--------------------------
+S01E07 Title: you win or you die
+they say it?  Nop :(
+At least they say "you win"
+in: you win...
+--------------------------
+S01E08 Title: the pointy end
+they say it?  Nop :(
+
+--------------------------
+S01E09 Title: baelor
+they say it?  YES!
+
+quote: - they're taking him to the sept of baelor.
+When? 00:49:35,559 --> 00:49:37,769
+
+quote: baelor.
+When? 00:50:49,508 --> 00:50:51,593
+
+quote: baelor!
+When? 00:50:51,677 --> 00:50:52,928
+
+quote: let the high septon and baelor the blessed
+When? 00:52:13,550 --> 00:52:19,389
+
+quote: but beloved baelor taught us...
+When? 00:52:56,927 --> 00:53:00,389
+
+
+--------------------------
+S01E10 Title: fire and blood
+they say it?  YES!
+
+quote: consumed by dreams of fire and blood...
+When? 00:35:00,350 --> 00:35:04,855
+
+
+--------------------------
+S02E01 Title: the north remembers
+they say it?  Nop :(
+At least they say "the nor"
+in: - king in the north.
+--------------------------
+S02E02 Title: the night lands
+they say it?  YES!
+
+quote: in the night lands.
+When? 00:16:55,723 --> 00:17:00,435
+
+
+--------------------------
+S02E03 Title: what is dead may never die
+they say it?  YES!
+
+quote: what is dead may never die.
+When? 00:36:29,437 --> 00:36:33,440
+
+
+--------------------------
+S02E04 Title: garden of bones
+they say it?  YES!
+
+quote: is called the garden of bones.
+When? 00:19:27,708 --> 00:19:31,336
+
+
+--------------------------
+S02E05 Title: the ghost of harrenhal
+they say it?  Nop :(
+
+--------------------------
+S02E06 Title: the old gods and the new
+they say it?  Nop :(
+At least they say "the old"
+in: the old man couldn't keep his mouth shut.
+--------------------------
+S02E07 Title: a man without honor
+they say it?  YES!
+
+quote: you are a man without honor.
+When? 00:51:54,528 --> 00:51:56,654
+
+
+--------------------------
+S02E08 Title: the prince of winterfell
+they say it?  YES!
+
+quote: -<font color="#404040">yara:</font> why, it's the prince of winterfell.
+When? 00:02:35,531 --> 00:02:38,032
+
+
+--------------------------
+S02E09 Title: blackwater
+they say it?  YES!
+
+quote: the blackwater's on fire.
+When? 00:39:50,430 --> 00:39:52,431
+
+
+--------------------------
+S02E10 Title: valar morghulis
+they say it?  YES!
+
+quote: "valar morghulis."
+When? 00:38:50,912 --> 00:38:52,496
+
+quote: valar morghulis.
+When? 00:38:53,415 --> 00:38:55,040
+
+quote: say it again. valar morghulis.
+When? 00:39:06,970 --> 00:39:09,263
+
+quote: valar morghulis.
+When? 00:39:10,056 --> 00:39:11,640
+
+
+--------------------------
+S03E01 Title: valar dohaeris
+they say it?  Nop :(
+
+--------------------------
+S03E02 Title: dark wings, dark words
+they say it?  Nop :(
+
+--------------------------
+S03E03 Title: walk of punishment
+they say it?  YES!
+
+quote: the walk of punishment
+When? 00:28:33,145 --> 00:28:35,682
+
+quote: a slave dying on the walk of punishment.
+When? 00:34:30,335 --> 00:34:32,941
+
+
+--------------------------
+S03E04 Title: and now his watch is ended
+they say it?  Nop :(
+At least they say "and now"
+in: and now his watch has ended.
+--------------------------
+S03E05 Title: kissed by fire
+they say it?  YES!
+
+quote: kissed by fire. but...
+When? 00:10:26,400 --> 00:10:29,882
+
+
+--------------------------
+S03E06 Title: the climb
+they say it?  YES!
+
+quote: the climb is all there is.
+When? 00:49:19,540 --> 00:49:22,885
+
+
+--------------------------
+S03E07 Title: the bear and the maiden fair
+they say it?  Nop :(
+At least they say "the bea"
+in: the bear, the bear, and the maiden fair
+--------------------------
+S03E08 Title: second sons
+they say it?  YES!
+
+quote: they're called the second sons.
+When? 00:05:07,015 --> 00:05:09,689
+
+quote: the captains of the second sons,
+When? 00:05:57,399 --> 00:05:59,493
+
+quote: and i may give you my second sons.
+When? 00:06:45,488 --> 00:06:47,161
+
+quote: give me your second sons
+When? 00:06:47,240 --> 00:06:49,743
+
+quote: how many men fight for the second sons?
+When? 00:06:50,911 --> 00:06:53,289
+
+quote: the second sons have
+When? 00:07:25,028 --> 00:07:27,122
+
+quote: the second sons have
+When? 00:07:27,197 --> 00:07:29,666
+
+quote: no one will hire the second sons again.
+When? 00:07:46,341 --> 00:07:50,062
+
+quote: in the second sons, we share everything.
+When? 00:08:41,688 --> 00:08:43,816
+
+quote: the second sons are yours,
+When? 00:46:48,222 --> 00:46:51,271
+
+
+--------------------------
+S03E09 Title: the rains of castamere
+they say it?  YES!
+
+quote: (band playing the rains of castamere)
+When? 00:42:11,829 --> 00:42:14,139
+
+quote: (the rains of castamere
+When? 00:42:41,826 --> 00:42:43,669
+
+
+--------------------------
+S03E10 Title: mhysa
+they say it?  YES!
+
+quote: - mhysa!
+When? 00:58:52,904 --> 00:58:54,952
+
+quote: - all: mhysa!
+When? 00:58:52,904 --> 00:58:54,952
+
+quote: all: (chanting) mhysa! mhysa!
+When? 00:58:55,407 --> 00:58:57,205
+
+quote: mhysa! mhysa! mhysa!
+When? 00:58:58,118 --> 00:58:59,916
+
+quote: all: (chanting) mhysa! mhysa!
+When? 00:59:18,472 --> 00:59:20,474
+
+quote: - mhysa! mhysa!
+When? 00:59:21,141 --> 00:59:23,189
+
+quote: - mhysa! mhysa!
+When? 00:59:21,141 --> 00:59:23,189
+
+quote: - mhysa.
+When? 01:00:12,359 --> 01:00:17,866
+
+quote: - mhysa.
+When? 01:00:12,359 --> 01:00:17,866
+
+quote: all: mhysa! mhysa! mhysa! mhysa!
+When? 01:00:32,879 --> 01:00:36,725
+
+
+--------------------------
+S04E01 Title: two swords
+they say it?  YES!
+
+quote: plenty of steel for two swords.
+When? 00:04:20,720 --> 00:04:25,044
+
+
+--------------------------
+S04E02 Title: the lion and the rose
+they say it?  Nop :(
+
+--------------------------
+S04E03 Title: breaker of chains
+they say it?  Nop :(
+
+--------------------------
+S04E04 Title: oathkeeper
+they say it?  YES!
+
+quote: oathkeeper.
+When? 00:34:12,920 --> 00:34:14,331
+
+
+--------------------------
+S04E05 Title: first of his name
+they say it?  YES!
+
+quote: first of his name,
+When? 00:02:21,720 --> 00:02:23,290
+
+
+--------------------------
+S04E06 Title: the laws of gods and men
+they say it?  Nop :(
+
+--------------------------
+S04E07 Title: mockingbird
+they say it?  Nop :(
+
+--------------------------
+S04E08 Title: the mountain and the viper
+they say it?  Nop :(
