@@ -17,21 +17,26 @@ for i in range (1,39):
 
     time= '\n'
     line = '\n'+m.get_s0xe0y(i) + ' Title: '+ current_title + '\nthey say it?' 
-    got_line='Bonus: They say \'game of thrones\' \o/ '
+    got_line='\n\nBonus: They say \'game of thrones\' \o/ '
 
     f = open(path)
     flag = False
     line_counter = 1
-    got=-1
+    got = -1
+    got_flag = False
     for i in f:
         current_line = i.replace('\n', '')
         current_line = current_line.lower()
         x = current_line.find(current_title)
         got = current_line.find('game of thrones')
         if got != -1:
-            got_time = lc.getline(path, line_counter-1)
-            got_quote = current_line
-            got_line+= '\nline: ' + got_quote + '\nwhen? in ' + got_time
+
+            # print(got_line)
+            if (current_line.find('font color') == -1 ):
+                got_time = lc.getline(path, line_counter-1)
+                got_quote = current_line
+                got_line+= '\nline: ' + got_quote + '\nwhen? in ' + got_time
+                got_flag = True
 
         if(x!=-1):
             if not flag: line = line + '  YES!'+'\n\n'
@@ -50,7 +55,7 @@ for i in range (1,39):
         for i in range(7):
             part_of_title += current_title[i]
 
-        print(part_of_title)
+        # print(part_of_title)
         fl, quote2 = m.serach_with_getline(path, part_of_title)
 
         line +='  Nop :(\n'
@@ -59,7 +64,8 @@ for i in range (1,39):
             line += 'At least they say "' + part_of_title + '"'
             line+= '\nin: '+ quote2
 
-    if got!=-1:
+    if got_flag:
+        print('12')
         line+=got_line
     
     they_say_it.write('\n--------------------------')

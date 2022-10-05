@@ -89,11 +89,11 @@ def serach_with_getline(file, key):
         k = k.lower()
         x = k.find(key)
         if(x!=-1):
-            print(k)
+            # print(k)
             quote = k
             flag = True
             time = lc.getline(file, line)
-            print(time)
+            # print(time)
         line+=1
     return flag, quote
 
