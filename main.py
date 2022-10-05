@@ -4,7 +4,7 @@ import linecache as lc
 
 t = open('titles.txt')
 they_say_it = open ("they_say_it.txt", "w")
-for i in range (1,39):
+for i in range (1,51):
     they_say_it = open ("they_say_it.txt", "a")
     x = -1
 
@@ -65,9 +65,8 @@ for i in range (1,39):
             line+= '\nin: '+ quote2
 
     if got_flag:
-        print('12')
         line+=got_line
     
-    they_say_it.write('\n--------------------------')
+    they_say_it.write('\n----------------------------')
     they_say_it.write(line)
 
